@@ -4,4 +4,4 @@ requests==2.23.0
 Flask_RESTful==0.3.8
 docker==4.2.0
 PyYAML==5.3
-gunicorn==19.0.0
+gunicorn==19.5.0
